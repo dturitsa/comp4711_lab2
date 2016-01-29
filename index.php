@@ -98,7 +98,7 @@ switch (ENVIRONMENT)
  * Include the path if the folder is not in the same directory
  * as this file.
  */
-	$system_path = '/home/denis/lampstack-5.5.31-0/apache2/htdocs/system3';
+	$system_path = '../system3';
 
 /*
  *---------------------------------------------------------------
